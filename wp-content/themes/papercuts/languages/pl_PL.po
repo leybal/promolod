@@ -1,0 +1,1134 @@
+# Translation of the WordPress theme PaperCuts 1.2 by Tomas Toman.
+# This file is distributed under the same license as the PaperCuts package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2014.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PaperCuts 1.2\n"
+"POT-Creation-Date: 2014-04-15 08:00+0100\n"
+"PO-Revision-Date: 2014-10-25 09:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: Pawel Grochowski\n"
+"Language: Polski\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# @ papercuts
+#: 404.php:11 search.php:35
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+# @ papercuts
+#: 404.php:12
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Przepraszamy, ale nie znaleziono żadnych wyników spełniających kryteria "
+"wyszukiwania."
+
+# @ papercuts
+#: archive.php:14
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ papercuts
+#: archive.php:16
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ papercuts
+#: archive.php:18
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ papercuts
+#: archive.php:20
+msgid "Archive"
+msgstr "Archiwum"
+
+# @ papercuts
+#: author.php:13
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:156 functions.php:414
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:157 functions.php:415
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:158 functions.php:419
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalacja wtyczki: %s"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Coś poszło źle."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:170 functions.php:425
+msgid "Return to Required Plugins Installer"
+msgstr "Powrót do instalatora wymaganej wtyczki"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Powrót do Kokpitu"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Wtyczka aktywowana."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr "Wtyczka została aktywowana:"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i są  aktywowane. %1$s"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Odrzuć tę informację"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Link zewnętrzny"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Prywatne repozytorium"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPress"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Wymagane"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Zalecane"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Niezainstalowany"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Zainstalowane, ale nieaktywne"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Brak wtyczki do instalacji lub aktywacji. <a href=\"%1$s\" title=\"Return do "
+"Dashboard\">Powrót do Dashboard</a>"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Wtyczka"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Źródło"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Typ"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Status"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Instaluj"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Aktywuj"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Pakiet instalacyjny nie jest dostępny."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Pobieranie instalowanego pakietu z <span class=\"code\">%s</span>&#8230;"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Rozpakowywanie paczki&#8230;"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Instalowanie wtyczki&#8230;"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Nie zainstalowano wtyczki"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Wtyczki zainstalowane pomyślnie."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Aktywacja wtyczki nie powiodła się."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proces instalacji i aktywacji rozpoczęty. Ten proces może trochę potrwać, "
+"więc proszę o cierpliwość."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s zainstalowana i aktywowana pomyślnie."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i aktywacje zostały zakończone"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i aktywowanie wtyczki %1$s (%2$d/%3$d)"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Instalacja rozpoczęta. Ten proces może trochę potrwać, więc proszę o "
+"cierpliwość."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalacji %1$s: <strong>%2$s</strong>."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalacja %1$s nie powiodła się."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s zainstalowano pomyślnie."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalacja wtyczki %1$s (%2$d/%3$d)"
+
+# @ papercuts
+#: class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Powrót do Dashboard"
+
+# @ papercuts
+#: comments.php:21 content-archives.php:23 single.php:19
+#: functions/fe/widget-posts-column.php:115
+#: functions/fe/widget-posts-column.php:133
+#: functions/fe/widget-posts-grid.php:109
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Komentarz"
+msgstr[1] "%1$s Komentarzy"
+
+# @ papercuts
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze komentarze"
+
+# @ papercuts
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Nowsze komentarze &rarr;"
+
+# @ papercuts
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Komentarze są zamknięte."
+
+# @ papercuts
+#: comments.php:42
+msgid "Your name"
+msgstr "Twoje imię"
+
+# @ papercuts
+#: comments.php:43
+msgid "Website"
+msgstr "strona"
+
+# @ papercuts
+#: comments.php:44
+msgid "Comment..."
+msgstr "Komentarz ..."
+
+# @ papercuts
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Dodaj komentarz"
+
+# @ papercuts
+#: content-archives.php:20 single.php:16
+msgid "Author: "
+msgstr "Autor: "
+
+# @ papercuts
+#: functions.php:125
+msgid "Main Header Menu"
+msgstr "Nagłowek - Menu główne"
+
+# @ papercuts
+#: functions.php:126
+msgid "Top Header Menu"
+msgstr "Górny pasek - menu"
+
+# @ papercuts
+#: functions.php:138
+msgid "Right Sidebar"
+msgstr "Prawy pasek boczny"
+
+# @ papercuts
+#: functions.php:140
+msgid "Right sidebar which appears on all posts and pages."
+msgstr ""
+"Prawy pasek boczny, który pojawia się we wszystkich postach i na stronach."
+
+# @ papercuts
+#: functions.php:147
+msgid "Footer left widget area"
+msgstr "Stopka, lewa strona widget"
+
+# @ papercuts
+#: functions.php:149
+msgid "Left column with widgets in footer."
+msgstr "Stopka, lewa kolumna z widgetami."
+
+# @ papercuts
+#: functions.php:156
+msgid "Footer middle widget area"
+msgstr "Stopka, środek widget"
+
+# @ papercuts
+#: functions.php:158
+msgid "Middle column with widgets in footer."
+msgstr "Stopka, środkowa kolumna z widgetami."
+
+# @ papercuts
+#: functions.php:165
+msgid "Footer right widget area"
+msgstr "Stopka, prawa strona widget"
+
+# @ papercuts
+#: functions.php:167
+msgid "Right column with widgets in footer."
+msgstr "Stopka, prawa kolumna z widgetami."
+
+# @ papercuts
+#: functions.php:174
+msgid "Footer notices"
+msgstr "Stopka, pole notatek"
+
+# @ papercuts
+#: functions.php:176
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Linia do praw autorskich i innych informacji, poniżej obszarów widgetów "
+"stopki. Wstaw tutaj jeden widget tekstu. Pole \"Tytuł\" w tym widgecie "
+"powinno zostać puste."
+
+#: functions.php:183
+msgid "Latest Posts Homepage widget area"
+msgstr "Ostatnie posty, Homepage"
+
+# @ papercuts
+#: functions.php:185
+msgid ""
+"The area for any PaperCuts Posts Widgets, which display latest posts from a "
+"specific category below the default Latest Posts area."
+msgstr ""
+"Obszar dla wszelkich PaperCuts Posts widgetu, który wyświetla najnowsze "
+"wiadomości z określonej kategorii poniżej domyślnego obszaru Ostatnich "
+"postów."
+
+# @ papercuts
+#: functions.php:192
+msgid "Homepage slideshow"
+msgstr "Pokaz slajdów strona główna"
+
+# @ papercuts
+#: functions.php:194
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+"Obszar dla Cyclone Slider Widget, który wyświetla pokaz slajdów na stronie "
+"głównej."
+
+# @ papercuts
+#: functions.php:213
+msgid "Read more"
+msgstr "Więcej"
+
+# @ papercuts
+#: functions.php:243
+msgid "Post navigation"
+msgstr "Temat nawigacji"
+
+#: functions.php:245
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starsze posty"
+
+#: functions.php:246
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nowsze posty <span class=\"meta-nav\">&rarr;</span>"
+
+# @ papercuts
+#: functions.php:261
+msgid "&larr; Previous post"
+msgstr "&larr; Poprzedni post"
+
+# @ papercuts
+#: functions.php:262
+msgid "Next post &rarr;"
+msgstr "Następny post &rarr;"
+
+# @ papercuts
+#: functions.php:279
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ papercuts
+#: functions.php:279
+msgid "(Edit)"
+msgstr "(Eytuj)"
+
+# @ papercuts
+#: functions.php:292
+msgid "(Post author)"
+msgstr "(Post autora)"
+
+# @ papercuts
+#: functions.php:298
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s - %2$s"
+
+# @ papercuts
+#: functions.php:304
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz czeka na akceptację."
+
+# @ papercuts
+#: functions.php:310
+msgid "Reply"
+msgstr "Odpowiedź"
+
+# @ papercuts
+#: functions.php:312
+msgid "Edit"
+msgstr "Edycja"
+
+# @ papercuts
+#: functions.php:416
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"%1$s wtyczka jest wymagana do tego tematu. Kliknij na poniższy duży "
+"niebieski przycisk aby ją zainstalować i aktywować %1$s."
+
+# @ papercuts
+#: functions.php:417
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"%1$s jest zainstalowana, ale nieaktywna. Przejdź do zakładki <a href=\"%2$s"
+"\">Wtyczki</a>, aby ją aktywować."
+
+# @ papercuts
+#: functions.php:418
+#, php-format
+msgid "Install %s Now"
+msgstr "Zainstaluj teraz %s"
+
+# @ papercuts
+#: functions.php:420
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z API wtyczki."
+
+# @ papercuts
+#: functions.php:421
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Temat ten wymaga %1$s wtyczki. <a href=\"%2$s\"><strong> Kliknij tutaj, aby "
+"rozpocząć proces instalacji </ strong></a>. Możesz zostać poproszony o "
+"poświadczenie FTP w oparciu o konfiguracji serwera."
+
+# @ papercuts
+#: functions.php:422
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień, aby zainstalować wtyczkę "
+"%s. Skontaktuj się z administratorem strony aby to zrobić."
+
+# @ papercuts
+#: functions.php:423
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Temat ten wymaga wtyczki %1$s. Wtyczka jest aktualnie nieaktywna, proszę iść "
+"do <a href=\"%2$s\">strony administracji wtyczki</a>, aby go uaktywnić."
+
+# @ papercuts
+#: functions.php:424
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień, aby aktywować %s wtyczkę. "
+"Aby ją aktywować skontaktuj się z administratorem strony."
+
+# @ papercuts
+#: functions.php:436
+msgid "PaperCuts"
+msgstr "PaperCuts"
+
+# @ papercuts
+#: search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla: %s"
+
+# @ papercuts
+#: search.php:13
+msgid "Number of Results: "
+msgstr "Liczba wyników: "
+
+# @ papercuts
+#: search.php:23
+msgid "Search results navigation"
+msgstr "Wyniki wyszukiwania nawigacji"
+
+#: search.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Previous results"
+msgstr "<span class=\"meta-nav\">&larr;</span> Poprzedni"
+
+#: search.php:26
+msgid "Next results <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Następny <span class=\"meta-nav\">&rarr;</span>"
+
+# @ papercuts
+#: search.php:36
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Przepraszamy, ale nie znaleziono żadnych wyników spełniających kryteria "
+"wyszukiwania. Spróbuj ponownie używając innych słów kluczowych."
+
+# @ papercuts
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Szukaj..."
+
+# @ papercuts
+#: single.php:28
+msgid "Pages:"
+msgstr "Strony:"
+
+# @ papercuts
+#: tag.php:12
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ papercuts
+#: template-logged-in.php:18
+msgid "You must be logged in to view this page."
+msgstr "Musisz być zalogowany, aby zobaczyć tę stronę."
+
+# @ cycloneslider
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Powiększ zdjęcie"
+
+# @ cycloneslider
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Dowiedz się więcej"
+
+# @ cycloneslider
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70 cycloneslider/thumbnails/slider.php:70
+msgid "Slide type not supported."
+msgstr "Typ slajdów nie działa."
+
+# @ papercuts
+#: functions/be/fw-options.php:1272
+msgid "settings reset."
+msgstr "przywróć ustawienia."
+
+# @ papercuts
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+# @ papercuts
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Nie znaleziono podanego adresu lokalizacji."
+
+# @ papercuts
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Nieprawidłowe żądanie. Czy podałeś adres?"
+
+# @ papercuts
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Coś poszło nie tak podczas pobierania mapy, należy upewnić się, że "
+"prawidłowo wpisano krótki kod."
+
+# @ papercuts
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Nie można połączyć się z serwisem Google API."
+
+# @ papercuts
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Facebook Like Box."
+
+# @ papercuts
+#: functions/fe/widget-facebook.php:14
+msgid "PaperCuts Facebook Like Box Widget"
+msgstr "PaperCuts Facebook Like Box Widget"
+
+# @ papercuts
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-social.php:86 functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Tytuł:"
+
+# @ papercuts
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "Adres URL strony na Facebook:"
+
+# @ papercuts
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Wstaw tutaj pełny adres URL swojej strony na Facebook, (przykład: http://www."
+"facebook.com/FacebookDevelopers)."
+
+# @ papercuts
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Wysokość boksu Like (opcjonalnie)"
+
+# @ papercuts
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Wstaw tutaj wysokość boksu Like. Wartość w pikselach, w polu należy wpisać "
+"TYLKO CYFRY (bez symbolu \"px\")!"
+
+# @ papercuts
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Pokaż profile:"
+
+# @ papercuts
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr "Określ, czy wyświetlać zdjęcia ludzi, którzy lubią stronę."
+
+# @ papercuts
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Pokaż strumień wiadomości:"
+
+# @ papercuts
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr "Określ, czy wyświetlać strumień najnowszych wiadomości przez stronę."
+
+# @ papercuts
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Najnowsze posty z wybranej kategorii jako kolumny z podświetlonym pierwszym "
+"postem."
+
+# @ papercuts
+#: functions/fe/widget-posts-column.php:14
+msgid "PaperCuts Posts-Column"
+msgstr "PaperCuts Posts-Column"
+
+# @ papercuts
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Kategoria:"
+
+# @ papercuts
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Wybierz kategorię postu."
+
+# @ papercuts
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Liczba postów:"
+
+# @ papercuts
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Wstaw tutaj liczbę najnowszych wiadomości z wybranej kategorii, które mają "
+"być wyświetlane."
+
+# @ papercuts
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Najnowsze posty z wybranej kategorii jako tabela."
+
+# @ papercuts
+#: functions/fe/widget-posts-grid.php:14
+msgid "PaperCuts Posts-Grid"
+msgstr "PaperCuts Posts-Grid"
+
+# @ papercuts
+#: functions/fe/widget-posts-grid.php:112
+msgid "Read more &gt;"
+msgstr "Więcej &gt;"
+
+# @ papercuts
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Najnowsze posty z wybranej kategorii jako nieuporządkowana lista z "
+"podświetlonym pierwszym postem."
+
+# @ papercuts
+#: functions/fe/widget-posts-list.php:14
+msgid "PaperCuts Posts-List"
+msgstr "PaperCuts Posts-List"
+
+# @ papercuts
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr "Najnowsze posty z wybranej kategorii jako suwak."
+
+# @ papercuts
+#: functions/fe/widget-posts-slider.php:14
+msgid "PaperCuts Posts-Slider"
+msgstr "PaperCuts Posts-Slider"
+
+# @ papercuts
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr "Najnowsze posty z wybranej kategorii jako miniatury."
+
+# @ papercuts
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "PaperCuts Posts-Thumbnail"
+msgstr "PaperCuts Posts-Thumbnail"
+
+# @ papercuts
+#: functions/fe/widget-social.php:12
+msgid "A Social widget by PaperCuts"
+msgstr "Social widget PaperCuts"
+
+# @ papercuts
+#: functions/fe/widget-social.php:14
+msgid "PaperCuts Social Widget"
+msgstr "PaperCuts Social Widget"
+
+# @ papercuts
+#: functions/fe/widget-social.php:93
+msgid "Twitter:"
+msgstr "Twitter:"
+
+# @ papercuts
+#: functions/fe/widget-social.php:97
+msgid "Insert the full URL of your Twitter profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na Twitterze."
+
+# @ papercuts
+#: functions/fe/widget-social.php:103
+msgid "Facebook:"
+msgstr "Facebook:"
+
+# @ papercuts
+#: functions/fe/widget-social.php:107
+msgid "Insert the full URL of your Facebook profile, page or group."
+msgstr "Wprowadź pełny adres URL profilu, strony lub grupy na Facebook."
+
+# @ papercuts
+#: functions/fe/widget-social.php:113
+msgid "RSS:"
+msgstr "RSS:"
+
+# @ papercuts
+#: functions/fe/widget-social.php:117
+msgid "Insert the Url of your RSS. You may include your RSS from Feedburner."
+msgstr "Wprowadź adres URL RSS. Możesz podać swój RSS z FeedBurner."
+
+# @ papercuts
+#: functions/fe/widget-social.php:123
+msgid "Google Plus:"
+msgstr "Google Plus:"
+
+# @ papercuts
+#: functions/fe/widget-social.php:127
+msgid "Insert the full URL of your Google Plus profile"
+msgstr "Wprowadź pełny adres URL swojego profilu Google Plus"
+
+# @ papercuts
+#: functions/fe/widget-social.php:133
+msgid "You Tube:"
+msgstr "YouTube:"
+
+# @ papercuts
+#: functions/fe/widget-social.php:137
+msgid "Insert the full URL of your YouTube profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na YouTube."
+
+# @ papercuts
+#: functions/fe/widget-social.php:143
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+# @ papercuts
+#: functions/fe/widget-social.php:147
+msgid "Insert the full URL of your Linkedin profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na LinkedIn."
+
+# @ papercuts
+#: functions/fe/widget-social.php:153
+msgid "Delicious:"
+msgstr "Delicious:"
+
+# @ papercuts
+#: functions/fe/widget-social.php:157
+msgid "Insert the full URL of your Delicious profile."
+msgstr "Wprowadź pełny adres URL swojego profilu Delicious."
+
+# @ papercuts
+#: functions/fe/widget-social.php:163
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+# @ papercuts
+#: functions/fe/widget-social.php:167
+msgid "Insert the full URL of your Pinterest profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na Pinterest."
+
+# @ papercuts
+#: functions/fe/widget-social.php:173
+msgid "Flickr:"
+msgstr "Flickr:"
+
+# @ papercuts
+#: functions/fe/widget-social.php:177
+msgid "Insert the full URL of your Flickr profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na Flickr."
+
+# @ papercuts
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by PaperCuts"
+msgstr "PaperCuts Twitter widget."
+
+# @ papercuts
+#: functions/fe/widget-twitter.php:15
+msgid "PaperCuts Twitter Widget"
+msgstr "PaperCuts Twitter Widget"
+
+# @ papercuts
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Dołącz do nas na Twitterze"
+
+# @ papercuts
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Nazwa użytkownika na Twitter:"
+
+# @ papercuts
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: papercuts)."
+msgstr "Wprowadź swoją nazwę użytkownika na Twitter. (przykład: papercuts)."
+
+# @ papercuts
+#: functions.php:247 search.php:28
+msgid "&larr; Previous"
+msgstr "&larr; Następny"
+
+# @ papercuts
+#: functions.php:248 search.php:29
+msgid "Next &rarr;"
+msgstr "Następny &rarr;"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:25
+msgid ""
+"Display popular posts, recent posts, comments and tags in tabbed format."
+msgstr ""
+"Wyświetl popularne posty, ostatnie posty, komentarze i tagi w formacie "
+"zakładkami."
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:58
+msgid "Select Tabs"
+msgstr "Wybierz zakładki"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:63
+msgid "Popular Tab"
+msgstr "Popularne zakładki"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:67
+msgid "Recent Tab"
+msgstr "Najnowsze zakładki"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:71
+msgid "Comments Tab"
+msgstr "Zakładki komentarzy"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:75
+msgid "Tags Tab"
+msgstr "Zakładka tagów"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:80
+msgid "Tab Order"
+msgstr "Kolejność zakładek"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:220
+msgid "Popular"
+msgstr "Popularne"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:221
+msgid "Recent"
+msgstr "Najnowsze"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:222
+msgid "Comments"
+msgstr "Komentarze"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:223
+msgid "Tags"
+msgstr "Tagi"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:103
+msgid "Advanced Options"
+msgstr "Opcje zaawansowane"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:109
+msgid "Allow pagination"
+msgstr "Umożliwiają podział na strony"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:116
+msgid "Number of posts to show:"
+msgstr "Liczba postów do pokazania:"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:125
+msgid "Show post thumbnails"
+msgstr "Pokaż miniatury postów"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:140
+msgid "Show post date"
+msgstr "Pokaż datę postu"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:147
+msgid "Show number of comments"
+msgstr "Pokaż liczbę komentarzy"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:154
+msgid "Show post excerpt"
+msgstr "Pokaż wiadomość - fragment"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:160
+msgid "Excerpt length (words):"
+msgstr "Długość fragmentu (słowa):"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:173
+msgid "Number of comments on Comments Tab:"
+msgstr "Ilość komentarzy w zakładce Komentarze:"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:182
+msgid "Show avatars on Comments Tab"
+msgstr "Pokaż awatary na zakładce Komentarze"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:398
+msgid "No Comment"
+msgstr "Brak komentarzy"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:398
+msgid "One Comment"
+msgstr "Jeden komentarz"
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:457
+msgid "No comments yet."
+msgstr "Brak komentarzy."
+
+# @ papercuts
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:480
+msgid "No tags created."
+msgstr "Brak tagów."

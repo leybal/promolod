@@ -1,0 +1,183 @@
+.popup-list {
+	margin-top: 40px;
+}
+.popup-list .popup-list-item {
+	max-width: 400px;
+	border: 1px solid transparent;
+	padding: 5px;
+	margin: 6px;
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+	overflow: hidden;
+}
+.popup-list .popup-list-item.active ,
+.popup-list .popup-list-item:active  {
+	outline: 5px solid rgba(0, 0, 0, 0.52);
+}
+.popup-list .popup-list-item img {
+	max-width: 400px;
+	height: auto;
+}
+.ppsNewPopupDesc {
+	background-color: #fff;
+    bottom: 5px;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+	display: none;
+}
+.ppsSelectTpl {
+	position: absolute;
+	top: -50px;
+	/*left: 160px;*/
+}
+#ppsPopupPreview {
+	/*float: left;
+	width: calc(100% - 560px);*/
+}
+#ppsPopupEditTabs {
+	/*float: right;
+	width: 560px;*/
+}
+#ppsPopupEditTabs .ppsOptTxtCheck {
+	width: calc(100% - 25px);
+}
+#ppsPopupEditForm textarea {
+	width: 100%;
+}
+.ppsTabContent section {
+	padding-bottom: 20px;
+}
+.ppsPopupOptRow {
+	padding-left: 7px;
+}
+.supsystic-plugin fieldset, .ppsPopupOptRow {
+	margin-bottom: 10px;
+}
+/*additional*/
+.ppsBgTypeShell {
+	display: none;
+}
+.ppsPopupMainOptSect {
+	float: left;
+	padding-right: 30px;
+	max-width: 30%;
+}
+.ppsListItems li {
+	float: left;
+	margin-right: 5px;
+	/*min-height: 50px;*/
+	line-height: 35px;
+	cursor: pointer;
+	border: 1px solid transparent;
+	padding: 3px;
+}
+.ppsListItems li:hover {
+	border-color: #4ae8ea;
+}
+.ppsListItems li.active {
+	border-color: #000;
+}
+#ppsPopupPreviewUpdatingMsg {
+	position: fixed;
+	top: 0;
+	left: 50%;
+	z-index: 999999;
+	display: none;
+	padding: 5px;
+	color: #4ae8ea;
+	background-color: #000;
+}
+.ppoPopupSubFields label {
+	padding-right: 10px;
+}
+#ppsPopupTpl .form-table {
+	vertical-align: top;
+}
+#ppsPopupEditForm label {
+	padding-bottom: 30px;
+}
+/*Too long for this particular input - make it smaller*/
+.supsystic-plugin #ppsHideForDevicesLabel .chosen-container.chosen-container-multi {
+	min-width: 210px;
+}
+/*animations setup*/
+.ppsPopupAnimEff {
+	float: left;
+	min-height: 150px;
+	min-width: 150px;
+	position: relative;
+	border: 3px solid transparent;
+	cursor: pointer;
+}
+.ppsPopupAnimEff:hover, 
+.ppsPopupAnimEff.active {
+	border: 3px solid #4ae8ea;
+}
+.ppsPopupAnimEffLabel {
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	width: 90%;
+	height: 90%;
+	line-height: 130px;
+	text-align: center;
+	/*font-size: 20px;*/
+	background-color: #000;
+	color: #fff;
+	/*cursor: pointer;*/
+}
+#supsystic-breadcrumbs .button, 
+#supsystic-breadcrumbs * {
+	height: 30px; 
+	line-height: 26px;
+}
+.supsystic-always-top {
+	position: fixed;
+	z-index: 99;
+}
+#supsystic-breadcrumbs.supsystic-sticky {
+	background-color: #f1f1f1;
+	width: 100%;
+}
+.popup-tick-label {
+	
+}
+[data-block-to-switch] {
+	width: 100%;
+}
+/*Design tabs*/
+#ppsPopupEditDesignTabs .nav-tab-wrapper {
+	padding-left: 230px; 
+	margin-top: 0px; 
+	margin-bottom: 0px;
+}
+#ppsPopupEditDesignTabs .nav-tab {
+	padding-bottom: 14px;
+}
+#ppsPopupEditDesignTabs .ppsPopupSelectTpl {
+	float: left;
+}
+#ppsPopupSubTxtsAndRedirect,
+#ppsPopupSubEmailTxt {
+	margin-bottom: 0;
+}
+#ppsPopupSubTxtsAndRedirect label,
+#ppsPopupSubEmailTxt label,
+.ppsPopupSubBtnLabelShell {
+	clear: both;
+	padding-bottom: 20px;
+	display: block;
+}
+#ppsPopupSubTxtsAndRedirect input[type=text],
+#ppsPopupSubEmailTxt input[type=text],
+#ppsPopupSubEmailTxt textarea,
+.ppsPopupSubBtnLabelShell input[type=text] {
+	width: calc(100% - 260px);
+	float: right;
+}

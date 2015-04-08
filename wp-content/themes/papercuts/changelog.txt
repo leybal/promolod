@@ -1,0 +1,139 @@
+Changelog Legend:
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(12/12/2014) - Update - Version 1.2.2
+
+[*] Updated the "viewport" meta tag.
+[*] Enqueue the "HTML5 Shiv" through the function papercuts_scripts_styles().
+
+----
+
+(19/11/2014) - Update - Version 1.2.1
+
+[+] Added Polish translation.
+[+] Mentioned the Text Domain in style.css.
+[*] Set the priority of excerpt_length filter from 999 to 20.
+
+----
+
+(26/10/2014) - Update - Version 1.2.0
+
+[*] Updated custom WooCommerce styles (Sale Marker position and Related Products floating).
+[*] Updated theme documentation.
+
+----
+
+(12/10/2014) - Update - Version 1.1.9
+
+[+] Added Danish translation.
+[*] Updated displaying of sticky posts (uppercase titles).
+[x] Removed deprecated function "screen_icon()" from class-tgm-plugin-activation.php.
+
+----
+
+(29/09/2014) - Update - Version 1.1.8
+
+[+] Added Dutch translation.
+
+----
+
+(16/09/2014) - Update - Version 1.1.7
+
+[*] Updated displaying of the footer widget areas.
+
+----
+
+(03/09/2014) - Update - Version 1.1.6
+
+[*] Updated editor-style.css.
+[*] Changed position of the scroll-top button.
+
+----
+
+(25/08/2014) - Update - Version 1.1.5
+
+[+] Added Italian translation.
+
+----
+
+(15/08/2014) - Update - Version 1.1.4
+
+[+] Added custom Page Template for displaying Full-width pages without Title.
+[*] Updated theme documentation.
+
+----
+
+(06/08/2014) - Update - Version 1.1.3
+
+[*] Changed function for displaying featured images on archive pages.
+[*] Changed function for displaying the header image (added option "Everywhere except Homepage").
+
+----
+
+(25/07/2014) - Update - Version 1.1.2
+
+[*] Changed function for displaying the breadcrumb navigation (hide it on a static front page).
+[!] Fixed possible "Undefined index" debug notices in widget-posts-list.php.
+
+----
+
+(15/07/2014) - Update - Version 1.1.1
+
+[!] Fixed displaying of the drop-down submenus when the text takes up more than 1 line.
+
+----
+
+(03/07/2014) - Update - Version 1.1.0
+
+[+] Added support for WooCommerce plugin.
+
+----
+
+(22/06/2014) - Update - Version 1.0.5
+
+[*] Moved $content_width definition inside the Theme setup function.
+[*] Edited styling of the "pre" element.
+
+----
+
+(09/06/2014) - Update - Version 1.0.4
+
+[*] Edited URL address for the Google fonts call (removed http to avoid errors when https is used).
+[*] Edited CSS for "iframe" and "embed" elements.
+[x] Removed definition of unused checkboxes in fw-options.php.
+
+----
+
+(27/05/2014) - Update - Version 1.0.3
+
+[+] Added "edit post" links.
+[+] Added theme-slug prefixes to the enqueued scripts and styles.
+
+----
+
+(17/05/2014) - Update - Version 1.0.2
+
+[+] Added custom Page Template for displaying the Landing Page.
+[+] Added custom Page Template for displaying pages without the Page Title.
+
+----
+
+(05/05/2014) - Update - Version 1.0.1
+
+[+] Added Greek translation.
+[*] Changed the name of TGM_Plugin_Activation class to avoid conflicts with some plugins.
+[*] Changed the navigation to next/previous pages (added page links).
+[*] Changed the navigation to next/previous posts on single posts (added post titles).
+[*] Updated language localizations.
+
+----
+
+(16/04/2014) - The initial public release - Version 1.0.0

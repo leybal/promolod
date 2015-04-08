@@ -1,0 +1,21 @@
+RewriteBase /
+RewriteEngine On
+RedirectMatch 404 /.(svn|git|hg|bzr|cvs)|dump.sql(/|$)
+RewriteCond %{REQUEST_METHOD} ^(TRACE|TRACK)
+RewriteRule ^$ index.php [L]
+RewriteCond %{REQUEST_URI} (dfiles/.*)
+RewriteRule ^(.*)$ /dfiles.php?request=$1 [L]
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^(.+)$ $1 [L]
+RewriteCond %{REQUEST_URI} !(jscss/.*)!(img/.*)!(image.php.*)!(video.php.*)
+RewriteRule ^(.*)$ /index.php?rad_pr=1&request=$1# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
